@@ -49,4 +49,4 @@ Interactive astronomy site with animated star fields, custom cursor and smooth s
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-04e&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-04e&layout=compact&hide_border=true&cache_seconds=1800)
