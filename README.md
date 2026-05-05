@@ -49,4 +49,6 @@ Interactive astronomy site with animated star fields, custom cursor and smooth s
 
 ---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angel-04e&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angel-04e&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angel-04e&show_icons=true&theme=tokyonight&hide_border=true)
